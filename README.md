@@ -1,5 +1,10 @@
-# 💫 About Me:
-👋 Hi, I'm Ajeet Giri! A 3rd yr B.Tech CSE student...<br><br>🌱 I’m currently learning: MERN STACK<br>📫 How to reach me: giriajeet543@gmail.com<br>💬 Ask me about: Tech Support<br>⚡ Fun fact: I Love Tech and Tech Loves Me
+### 💫 About Me:
+👋 Hi, I'm Ajeet! A 3rd yr B.Tech CSE'28 student passionate about building impactful web applications.
+
+- 🔭 **Current Focus:** Mastering the MERN Stack & Advanced DSA (C++)
+- 📫 **How to reach me:** giriajeet543@gmail.com
+- 💬 **Ask me about:** Tech Support
+- ⚡ **Fun fact:** I love turning complex logic into clean, responsive user interfaces.
 
 
 ## 🌐 Socials:
